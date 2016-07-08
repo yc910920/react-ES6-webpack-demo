@@ -1,0 +1,31 @@
+/* Base Application Styles */
+
+.index img {
+  margin: 40px auto;
+  border-radius: 4px;
+  background: #fff;
+  display: block;
+}
+
+.form-group{
+  margin: 10px;
+}
+
+h1{
+  margin: 10px;
+}
+
+.table{
+  border: 1px solid #eee;
+  width: 650px;
+}
+
+.table-responsive{
+  margin: 0 auto;
+  width: 650px;
+}
+
+.table-div{
+  text-align: center;
+}
+
